@@ -5,7 +5,7 @@ on:
     branches: [ "main" ]
 
 env:
-  IMAGE_NAME_POLICY: ghcr.io/kaeyros-analytics/sema_privacy_policy:latest
+  IMAGE_NAME_POLICY: ghcr.io/kaeyros-analytics-org/sema_privacy_policy:latest
   
 
 defaults:
